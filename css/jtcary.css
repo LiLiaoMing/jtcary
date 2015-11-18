@@ -64,6 +64,14 @@
 	margin: 30px 0 10px 0;
 }
 
-.button_cursor {
+.button-enabled {
 	cursor:pointer;
+}
+
+.button-disabled {
+	cursor:default;
+}
+ 
+.dsabled-color {
+	color:#dfdfdf !important;
 }
